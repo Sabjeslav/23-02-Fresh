@@ -55,7 +55,7 @@
 
 .block-article-white {
   height: auto;
-  background-color: #fff;
+  background-color: #f4f4f4;
   color: #926239;
   font-size: 14px;
   line-height: 1.6em;
@@ -69,7 +69,7 @@
 }
 
 .article-white {
-  background-color: #fff;
+  background-color: #f4f4f4;
 }
 
 .inline-block-article-content {
