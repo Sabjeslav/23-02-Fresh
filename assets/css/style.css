@@ -44,19 +44,12 @@
 }
 
 .block-article-brown {
-  height: auto;
   background-color: #926239;
   color: white;
-  font-size: 14px;
-  line-height: 1.6em;
-  padding: 15px 10px;
-  text-align: center;
 }
 
-.block-article-white {
+.block-article {
   height: auto;
-  background-color: #f4f4f4;
-  color: #926239;
   font-size: 14px;
   line-height: 1.6em;
   padding: 15px 10px;
