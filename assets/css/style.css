@@ -7,10 +7,7 @@
 
 .container {
   height: 100vh;
-  background-position: center;
-  background-image: url("../images/bg.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: url("../images/bg.jpg") center center/cover no-repeat;
   padding: 40vh 20%;
   text-align: center;
 }
