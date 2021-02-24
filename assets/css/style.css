@@ -40,11 +40,6 @@
   transition: 0.5s;
 }
 
-.block-article-brown {
-  background-color: #926239;
-  color: white;
-}
-
 .block-article {
   height: auto;
   font-size: 14px;
